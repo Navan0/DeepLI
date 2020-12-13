@@ -21,8 +21,7 @@ $ pip install -e DeepLI
 
 ### Todos
 
- - Write MORE Tests
- - Add Night Mode
+- scappping cron jobs
 
 License
 ----
